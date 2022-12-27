@@ -9,7 +9,7 @@ paddle-bfloat==0.1.7
 paddlepaddle-gpu==2.4.1.post117
 Pillow==9.3.0
 pip==21.3.1
-protobuf==3.20.0
+protobuf==3.20.2
 requests==2.28.1
 setuptools==60.2.0
 six==1.16.0
